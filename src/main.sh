@@ -96,6 +96,7 @@ draw_ball() {
  local x=$1
  local y=$2
 
+<<<<<<< HEAD
  local prev_x=$3
  local prev_y=$4
 
@@ -107,6 +108,8 @@ draw_ball() {
 
     tput cup $((prev_y + 2)) $((prev_x + 1))
     echo "      "
+=======
+>>>>>>> 8e311cd84d9fb0acd66e8d7487b5d45b84f57e7e
     
     tput cup $y $x
     ansi --red " ### "
