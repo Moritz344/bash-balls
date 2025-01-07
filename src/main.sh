@@ -32,10 +32,7 @@ draw_ball_3() {
 draw_ball() {
  local x=$1
  local y=$2
- local anzahl=$3
 
- local red="\e[31m"
- local reset="\e[0m"
     
     tput cup $y $x
     ansi --red " ### "
