@@ -1,7 +1,12 @@
 # bash-balls
 
 
-https://github.com/user-attachments/assets/e11d5643-ba49-4cc3-9a5c-d4ae1f151119
+
+
+
+https://github.com/user-attachments/assets/c67470cf-d685-4c7d-99a1-6c7c0a825336
+
+
 
 
 Okay vielleicht hätte ich den Titel anderster formulieren können aber was solls kleiner spaß muss sein.
