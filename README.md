@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/c67470cf-d685-4c7d-99a1-6c7c0a825336
 
 
 
-Okay vielleicht hätte ich den Titel anderster formulieren können aber was solls kleiner spaß muss sein.
+Okay vielleicht hätte ich den Titel anderster formulieren können aber was solls.
 Ich bin ziemlich schlecht in bash und wollte deshalb ein neues Projekt anfangen und bin auf ein Youtube Video von Hirsch Daniel gestoßen.
 Ich fande das resultat sehr cool und wollte mich damit in bash probieren!
 
