@@ -2,6 +2,7 @@
 
 clear
 
+
 draw_ball_2() {
 
  local x_2=$1
