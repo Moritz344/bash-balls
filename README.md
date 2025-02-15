@@ -7,10 +7,7 @@
 https://github.com/user-attachments/assets/c67470cf-d685-4c7d-99a1-6c7c0a825336
 
 
-
-
-Okay vielleicht hätte ich den Titel anderster formulieren können aber was solls.
-Ich bin ziemlich schlecht in bash und wollte deshalb ein neues Projekt anfangen und bin auf ein Youtube Video von Hirsch Daniel gestoßen.
+Ich bin ziemlich schlecht in bash und wollte deshalb ein neues Projekt anfangen als ich auf ein Youtube Video von Hirsch Daniel gestoßen bin.
 Ich fande das resultat sehr cool und wollte mich damit in bash probieren!
 
 Inspiration: https://youtu.be/LD95ifUoFYI?si=hONcYP8JwEZpWX-w
